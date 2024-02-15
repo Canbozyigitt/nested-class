@@ -4,7 +4,7 @@ public class Out
 {
     public void run()
     {
-        System.out.println("Dıştaki sınıfın metodu çalıştı.");
+        System.out.println("Dıştaki sınıfın metodu çalıştı...");
         Inner inner = new Inner();
         inner.run();
     }
